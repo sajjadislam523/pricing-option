@@ -1,3 +1,4 @@
+import GymMatrix from "./components/GymMatrix";
 import Navbar from "./components/Navbar";
 import PriceOptions from "./components/PriceOptions";
 
@@ -6,6 +7,7 @@ function App() {
         <>
             <Navbar />
             <PriceOptions />
+            <GymMatrix />
         </>
     );
 }
