@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 29.99,
+        "features": [
+            "Access to gym facilities",
+            "Locker room access",
+            "Free WiFi"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard Membership",
+        "price": 49.99,
+        "features": [
+            "Access to gym facilities",
+            "Locker room access",
+            "Free group fitness classes",
+            "Discount on personal training"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Membership",
+        "price": 69.99,
+        "features": [
+            "24/7 access to all gym facilities",
+            "Locker room and shower access",
+            "Unlimited group fitness classes",
+            "Free guest passes",
+            "Access to sauna and steam room"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Student Discount Plan",
+        "price": 19.99,
+        "features": [
+            "Access to gym facilities",
+            "Locker room access",
+            "Discount on personal training",
+            "Free fitness assessment"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Family Plan",
+        "price": 99.99,
+        "features": [
+            "Access to gym facilities for 4 family members",
+            "Locker room access",
+            "Free group fitness classes for all members",
+            "Discount on family personal training sessions"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Personal Training Package",
+        "price": 150.0,
+        "features": [
+            "5 personal training sessions",
+            "Customized workout plan",
+            "Nutritional guidance",
+            "Progress tracking"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Yoga and Pilates Access",
+        "price": 39.99,
+        "features": [
+            "Access to all yoga and Pilates classes",
+            "Free mat rental",
+            "Priority booking for classes",
+            "Access to meditation rooms"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Monthly Pass",
+        "price": 35.0,
+        "features": [
+            "Access to gym facilities",
+            "Locker room access",
+            "Free WiFi",
+            "1 free guest pass per month"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Quarterly Pass",
+        "price": 90.0,
+        "features": [
+            "Access to gym facilities",
+            "Locker room and shower access",
+            "Discount on personal training",
+            "Free group fitness classes"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Annual Membership",
+        "price": 399.99,
+        "features": [
+            "Access to all gym facilities",
+            "Locker room and shower access",
+            "Unlimited group fitness classes",
+            "Free personal training session every quarter",
+            "Priority registration for events"
+        ]
+    }
+]

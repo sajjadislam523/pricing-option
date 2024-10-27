@@ -1,16 +1,11 @@
-// import DaisyNavbar from "./components/DaisyNavbar";
-
 import Navbar from "./components/Navbar";
+import PriceOptions from "./components/PriceOptions";
 
 function App() {
     return (
         <>
-            {/* <DaisyNavbar /> */}
-
             <Navbar />
-            <h1 className="text-3xl font-bold underline text-center">
-                Price Options
-            </h1>
+            <PriceOptions />
         </>
     );
 }

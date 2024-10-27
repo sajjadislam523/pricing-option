@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "month": "January",
+        "newMemberships": 50,
+        "cancellations": 5,
+        "avgAttendance": 100,
+        "revenue": 5000
+    },
+    {
+        "id": 2,
+        "month": "February",
+        "newMemberships": 45,
+        "cancellations": 3,
+        "avgAttendance": 95,
+        "revenue": 5200
+    },
+    {
+        "id": 3,
+        "month": "March",
+        "newMemberships": 60,
+        "cancellations": 7,
+        "avgAttendance": 110,
+        "revenue": 5400
+    },
+    {
+        "id": 4,
+        "month": "April",
+        "newMemberships": 70,
+        "cancellations": 6,
+        "avgAttendance": 120,
+        "revenue": 5600
+    },
+    {
+        "id": 5,
+        "month": "May",
+        "newMemberships": 80,
+        "cancellations": 4,
+        "avgAttendance": 130,
+        "revenue": 6000
+    },
+    {
+        "id": 6,
+        "month": "June",
+        "newMemberships": 55,
+        "cancellations": 6,
+        "avgAttendance": 105,
+        "revenue": 5700
+    },
+    {
+        "id": 7,
+        "month": "July",
+        "newMemberships": 65,
+        "cancellations": 5,
+        "avgAttendance": 115,
+        "revenue": 5900
+    },
+    {
+        "id": 8,
+        "month": "August",
+        "newMemberships": 75,
+        "cancellations": 3,
+        "avgAttendance": 125,
+        "revenue": 6100
+    },
+    {
+        "id": 9,
+        "month": "September",
+        "newMemberships": 85,
+        "cancellations": 7,
+        "avgAttendance": 135,
+        "revenue": 6200
+    },
+    {
+        "id": 10,
+        "month": "October",
+        "newMemberships": 60,
+        "cancellations": 5,
+        "avgAttendance": 110,
+        "revenue": 5500
+    },
+    {
+        "id": 11,
+        "month": "November",
+        "newMemberships": 50,
+        "cancellations": 6,
+        "avgAttendance": 100,
+        "revenue": 5300
+    },
+    {
+        "id": 12,
+        "month": "December",
+        "newMemberships": 45,
+        "cancellations": 4,
+        "avgAttendance": 95,
+        "revenue": 5100
+    }
+]
